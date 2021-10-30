@@ -22,4 +22,5 @@ int no=0,temp=0,dcount=0,dig=0;
 				temp=temp/10;
 		}
 				printf("\n count of %d digit in %d number is =%d",dig,no,dcount);
+return 0;
 }
