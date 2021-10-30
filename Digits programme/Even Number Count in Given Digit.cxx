@@ -19,4 +19,5 @@ int no=0,temp=0,even_count=0,dig=0;
 				temp=temp/10;
 		}
 				printf("\n even digit in %d are =%d",no,even_count);
+return 0;
 }
