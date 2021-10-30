@@ -12,6 +12,6 @@ int main()
 	
 		cnt++;
 		}
-		printf(" \n\n Digit in %d are =%d",no1,cnt);	
-	
+		printf(" \n\n Digit in %d are =%d",no1,c
+return 0;
 }
