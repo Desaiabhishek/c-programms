@@ -5,7 +5,7 @@ int main()
 int i=1;
 do
 {
-	printf("\n\t  INDIAI ");
+	printf("\n\t  INDIA ");
 	i++;
 }
 while(i<=5);
