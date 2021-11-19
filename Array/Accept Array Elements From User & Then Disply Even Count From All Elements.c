@@ -19,7 +19,7 @@ int main()
 
     for ( i = 0; i < Count; i++)
     {
-        if ( Eve[i]%2 == 0  )
+        if ( Eve[i]%2 == 0 && Eve[i] != 0)
         {
             Even_Cnt++;
         }
