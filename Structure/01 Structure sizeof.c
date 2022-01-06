@@ -14,12 +14,12 @@ int main ()
     };
     int Num = 0;
 
-    struct stud Std1;
+    struct stud Std;
 
     printf("\n Size Of Integer = %d",sizeof(int));
     printf("\n Size Of Integer Variable = %d",sizeof(Num));
     printf("\n Size Of Student Structure = %d",sizeof(struct stud));
-    printf("\n Size Of Student Structure Object = %d",sizeof(Std1));
+    printf("\n Size Of Student Structure Object = %d",sizeof(Std));
 
     getch();
     return 0;
