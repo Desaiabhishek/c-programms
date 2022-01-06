@@ -7,7 +7,7 @@ void swap(int*,int*);
 int main()
  {
 
-    int N1 = 0, N2 = 0;
+    int N1 = 0,N2 = 0;
 
     printf("\n Enter Two Numbers =>");
     scanf("%d%d",&N1,&N2);
